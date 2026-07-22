@@ -1,4 +1,4 @@
-# Bài 
+# Bài 1
 thang = int(input("Nhập tháng: "))
 nam = int(input("Nhập năm: "))
 # Kiểm tra số ngày trong tháng
